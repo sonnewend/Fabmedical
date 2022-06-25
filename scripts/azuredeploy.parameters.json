@@ -18,10 +18,10 @@
       "value": "East US"
     },
     "CosmosPairedLocation": {
-      "value": "eastus2"
+      "value": "centralus"
     },
     "CosmosPairedLocationName": {
-      "value": "East Us2"
+      "value": "central us"
     }
   }
 }
